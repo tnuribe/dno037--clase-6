@@ -1,0 +1,9 @@
+/* Acá pondré mis ajustes */
+body{background:black; padding-top:60px;}
+header,section,aside,footer{background:rgba(255,255,255,1);}
+section{background:rgba(128,128,128,1);}
+header{background:rgba(0,0,0,1);}
+img {max-width: 100%; max-height: 100%}
+h1 {font-family: 'Oswald', sans-serif; color: rgba(255,255,255,1)}
+h2 {font-family: 'Oswald', sans-serif; color:rgba(0,0,0,1)}
+p {font-family: 'Oswald', sans-serif; color: rgba(255,255,255,1); font-size: 20px; margin-left: 10px ; justify-content: center;}
